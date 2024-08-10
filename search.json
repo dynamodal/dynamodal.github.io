@@ -10,29 +10,29 @@
     "objectID": "services.html#data-science-analytics",
     "href": "services.html#data-science-analytics",
     "title": "Services",
-    "section": " Data Science & Analytics",
-    "text": "Data Science & Analytics\nDeveloping sophisticated financial models, enabling organizations to assess the potential impact of different strategies, investments, or economic changes, facilitating proactive decision-making."
+    "section": "{{< fa table >}} Data Science & Analytics",
+    "text": "{{&lt; fa table &gt;}} Data Science & Analytics\nDeveloping sophisticated financial models, enabling organizations to assess the potential impact of different strategies, investments, or economic changes, facilitating proactive decision-making."
   },
   {
     "objectID": "services.html#modeling-scenario-analysis",
     "href": "services.html#modeling-scenario-analysis",
     "title": "Services",
-    "section": " Modeling & Scenario Analysis",
-    "text": "Modeling & Scenario Analysis\nNavigate uncertainty with confidence. Our systems modeling and scenario analysis services equip you with the insights to make strategic decisions."
+    "section": "{{< fa chart-line >}} Modeling & Scenario Analysis",
+    "text": "{{&lt; fa chart-line &gt;}} Modeling & Scenario Analysis\nNavigate uncertainty with confidence. Our systems modeling and scenario analysis services equip you with the insights to make strategic decisions."
   },
   {
     "objectID": "services.html#data-ops-infrastructure",
     "href": "services.html#data-ops-infrastructure",
     "title": "Services",
-    "section": " Data-Ops & Infrastructure",
-    "text": "Data-Ops & Infrastructure\nStreamline your processes with our CI/CD practices. We utilize the latest tools and best practices to ensure smooth data pipelines and efficient operations. Our team will help you design and implement infrastructure that scales with you."
+    "section": "{{< fa server >}} Data-Ops & Infrastructure",
+    "text": "{{&lt; fa server &gt;}} Data-Ops & Infrastructure\nStreamline your processes with our CI/CD practices. We utilize the latest tools and best practices to ensure smooth data pipelines and efficient operations. Our team will help you design and implement infrastructure that scales with you."
   },
   {
     "objectID": "services.html#team-development",
     "href": "services.html#team-development",
     "title": "Services",
-    "section": " Team Development",
-    "text": "Team Development\nEmpower your team with the skills they need to succeed in a data-driven world. We offer training and support to enhance your internal capabilities."
+    "section": "{{< fa people-group >}} Team Development",
+    "text": "{{&lt; fa people-group &gt;}} Team Development\nEmpower your team with the skills they need to succeed in a data-driven world. We offer training and support to enhance your internal capabilities."
   },
   {
     "objectID": "contact.html",
