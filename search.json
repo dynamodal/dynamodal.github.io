@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "services.html",
+    "href": "services.html",
+    "title": "Services",
+    "section": "",
+    "text": "At Dynamodal, our suite of consulting services is designed to meet the diverse needs of our clients. Here’s how we can help:"
+  },
+  {
+    "objectID": "services.html#data-science-analytics",
+    "href": "services.html#data-science-analytics",
+    "title": "Services",
+    "section": " Data Science & Analytics",
+    "text": "Data Science & Analytics\nDeveloping sophisticated financial models, enabling organizations to assess the potential impact of different strategies, investments, or economic changes, facilitating proactive decision-making."
+  },
+  {
+    "objectID": "services.html#modeling-scenario-analysis",
+    "href": "services.html#modeling-scenario-analysis",
+    "title": "Services",
+    "section": " Modeling & Scenario Analysis",
+    "text": "Modeling & Scenario Analysis\nNavigate uncertainty with confidence. Our systems modeling and scenario analysis services equip you with the insights to make strategic decisions."
+  },
+  {
+    "objectID": "services.html#data-ops-infrastructure",
+    "href": "services.html#data-ops-infrastructure",
+    "title": "Services",
+    "section": " Data-Ops & Infrastructure",
+    "text": "Data-Ops & Infrastructure\nStreamline your processes with our CI/CD practices. We utilize the latest tools and best practices to ensure smooth data pipelines and efficient operations. Our team will help you design and implement infrastructure that scales with you."
+  },
+  {
+    "objectID": "services.html#team-development",
+    "href": "services.html#team-development",
+    "title": "Services",
+    "section": " Team Development",
+    "text": "Team Development\nEmpower your team with the skills they need to succeed in a data-driven world. We offer training and support to enhance your internal capabilities."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "We love to hear from you!",
+    "section": "",
+    "text": "We understand that every organization is unique, and that’s why we take a personalized approach to consulting. Our goal is not just to provide solutions but to empower you with the knowledge and tools to make informed decisions. Together, we can unlock the insights you need to succeed."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Thomas Wells",
+    "section": "",
+    "text": "Thomas is a seasoned data science and engineering expert with a passion for transforming complex challenges into actionable insights. As the principal of Dynamodal, he specializes in systems modeling, analytics infrastructure, and consulting services that empower businesses to harness the full potential of their data.\nWith more than a decade as a data practitioner and R-user, Thomas has cultivated a wealth of experience across various sectors. Before founding Dynamodal in 2022, he served on the Data Analytics and Modeling team at Guidehouse consulting, where he delivered critical data analysis and scenario modeling services for utility and government clients. His projects ranged from grid modernization modeling to energy efficiency evaluations, showcasing his ability to tackle diverse data challenges."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dynamodal",
+    "section": "",
+    "text": "Dynamodal\nTrusted Partner for Data-Driven Insights\n\nAt Dynamodal, we transform complex data challenges into insightful solutions tailored for your business. Specializing in consulting services across various industries, we bring a wealth of expertise in data science, analytics, and dev-ops. Whether you’re an electric utility aiming for energy efficiency or a startup looking to harness the power of data, we’re here to help you thrive.\nReady to unlock the potential of your data? Let’s embark on this journey together!\nGet Started"
+  }
+]
