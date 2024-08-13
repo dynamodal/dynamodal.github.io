@@ -4,14 +4,7 @@
     "href": "services.html",
     "title": "Services",
     "section": "",
-    "text": "At Dynamodal, our suite of consulting services is designed to meet the diverse needs of our clients. Here’s how we can help:"
-  },
-  {
-    "objectID": "services.html#team-development",
-    "href": "services.html#team-development",
-    "title": "Services",
-    "section": " Team Development",
-    "text": "Team Development\nEmpower your team with the skills they need to succeed in a data-driven world. We offer training and support to enhance your internal capabilities."
+    "text": "At Dynamodal, our suite of consulting services is designed to meet the diverse needs of our clients. Here’s how we can help:\n\n\n\n\n\n\n Data Science & Analytics\nDeveloping sophisticated financial models, enabling organizations to assess the potential impact of different strategies, investments, or economic changes, facilitating proactive decision-making.\n\n\n Modeling & Scenario Analysis\nNavigate uncertainty with confidence. Our systems modeling and scenario analysis services equip you with the insights to make strategic decisions.\n\n\n\n\n Data-Ops & Infrastructure\nStreamline your processes with our CI/CD practices. We utilize the latest tools and best practices to ensure smooth data pipelines and efficient operations. Our team will help you design and implement infrastructure that scales with you.\n\n\n Team Development\nEmpower your team with the skills they need to succeed in a data-driven world. We offer training and support to enhance your internal capabilities."
   },
   {
     "objectID": "contact.html",
