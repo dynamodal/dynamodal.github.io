@@ -26,12 +26,14 @@ website:
       - href: services.qmd
       - href: contact.qmd
         text: "Contact"
+      - href: https://fruitatechwizard.com
+        text: "FTW"
 #      - blog.qmd
 #      - projects.qmd
 
   page-footer:
     left: |
-      <span class="faux-block">{{< fa brands creative-commons >}} 2024 Dynamodal, LLC </span>
+      <span class="faux-block">{{< fa brands creative-commons >}} 2025 Dynamodal, LLC </span>
       <span class="faux-block">All content licensed under [{{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}} Creative Commons CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)</span>
       <span class="faux-block"> Theme credit: [Andrew Heiss](https://www.andrewheiss.com/)</span>
 #    center: |
