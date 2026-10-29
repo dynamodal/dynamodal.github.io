@@ -109,10 +109,14 @@ h1, h2, h3 { letter-spacing: -0.015em; }
 
 // ---- Buttons ----
 .dm-actions {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.75rem;
   margin-top: 1.75rem;
+  // Pandoc wraps the links in a <p>, so that's the flex container
+  &, > p {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+  }
+  > p { margin: 0; }
 
   a {
     display: inline-block;
@@ -210,7 +214,7 @@ h1, h2, h3 { letter-spacing: -0.015em; }
   text-align: center;
   h2 { color: $white; border: 0; margin-top: 0; }
   p { max-width: 36rem; margin-left: auto; margin-right: auto; }
-  .dm-actions { justify-content: center; }
+  .dm-actions, .dm-actions > p { justify-content: center; }
   .dm-actions a:first-child { background: $white; color: $ink; border-color: $white; }
   .dm-actions a:not(:first-child) { color: $white; border-color: rgba($white, 0.6); }
   .dm-actions a:not(:first-child):hover { background: rgba($white, 0.1); }

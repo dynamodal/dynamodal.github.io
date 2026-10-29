@@ -1,6 +1,6 @@
 ---
-pagetitle: "Dynamodal | Data and AI support for consulting teams"
-description: "Thomas Wells is an independent data and AI consultant. Consulting firms bring him in for analytics and modeling, data strategy, and help putting AI tools to work safely."
+pagetitle: "Dynamodal | Data and AI support for consultants and organizations"
+description: "Thomas Wells is an independent data and AI consultant. Consulting firms and organizations bring him in for analytics and modeling, data strategy, and help putting AI tools to work safely."
 page-layout: full
 ---
 
@@ -9,11 +9,11 @@ page-layout: full
 
 [Dynamodal · Independent data & AI consulting]{.dm-eyebrow}
 
-# Senior data and AI support for consulting teams.
+# Senior data and AI support for consultants and organizations.
 
 [I'm Thomas Wells.
-Consulting firms bring me in to deliver analytics and modeling, especially in energy efficiency and electrification, to sort out their data platforms, and to help their people get real value from AI tools without taking on careless risk.
-I work as a subcontractor or as an embedded member of your team.]{.dm-lead}
+Consulting firms and organizations bring me in to deliver analytics and modeling, especially in energy efficiency and electrification, to sort out their data platforms, and to help their people get real value from AI tools without taking on careless risk.
+I work as a subcontractor to consulting firms or directly with clients, on scoped tasks or as an embedded member of your team.]{.dm-lead}
 
 ::: {.dm-actions}
 [Book a call](https://www.dynamodal.com/schedule/)

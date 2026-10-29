@@ -12,7 +12,7 @@ freeze: auto
 
 website:
   title: "Dynamodal"
-  description: "Thomas Wells is an independent data and AI consultant who helps consulting teams with analytics, data strategy, and putting AI tools to work."
+  description: "Thomas Wells is an independent data and AI consultant who helps consulting teams and the organizations they serve with analytics, data strategy, and putting AI tools to work."
   favicon: "files/favicon.png"
   site-url: "https://www.dynamodal.com"
   repo-url: "https://github.com/dynamodal/dynamodal.github.io"
