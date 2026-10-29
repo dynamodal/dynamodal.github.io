@@ -1,98 +1,260 @@
-//
-// Color system
-//
+/*-- scss:defaults --*/
 
-$white:    #ffffff !default;
-$gray-100: #f8f9fa !default;
-$gray-200: #e9ecef !default;
-$gray-300: #dee2e6 !default;
-$gray-400: #ced4da !default;
-$gray-500: #adb5bd !default;
-$gray-600: #868e96 !default;
-$gray-700: #495057 !default;
-$gray-800: #373a3c !default;
-$gray-900: #212529 !default;
-$black:    #000000 !default;
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
 
-$blue:    #2780e3 !default;
-$indigo:  #6610f2 !default;
-$purple:  #170C3A !default;
-$pink:    #A52C60 !default;
-$red:     #CF4446 !default;
-$orange:  #EE6A24 !default;
-$light-orange:  #FB9E07 !default;
-$yellow:  #F6D645 !default;
-$green:   #118230 !default;
-$teal:    #20c997 !default;
-$cyan:    #3093CF !default;
+// Brand palette
+$ink:        #12233a;
+$ink-soft:   #3b4a5e;
+$accent:     #0e7c66;
+$accent-dk:  #0a5f4e;
+$mist:       #f3f6f8;
+$line:       #dfe5ea;
 
-$navbar-hl: $light-orange !default;
+$white: #ffffff;
+$primary: $accent;
+$body-color: $ink-soft;
+$body-bg: $white;
+$headings-color: $ink;
+$link-color: $accent;
+$link-hover-color: $accent-dk;
+
+$font-family-sans-serif: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+$font-size-root: 17px;
+$line-height-base: 1.65;
+$headings-font-weight: 700;
+$headings-line-height: 1.2;
+
+$navbar-bg: $white;
+$navbar-fg: $ink;
+$navbar-hl: $accent;
+$footer-bg: $mist;
+$footer-fg: $ink-soft;
+
+$border-radius: 0.6rem;
 
 /*-- scss:rules --*/
 
+h1, h2, h3 { letter-spacing: -0.015em; }
+
+// ---- Navbar ----
+.navbar {
+  border-bottom: 1px solid $line;
+  box-shadow: none;
+
+  .navbar-brand { font-weight: 700; letter-spacing: -0.01em; }
+  .navbar-logo { max-height: 30px; }
+  .nav-link { font-weight: 500; }
+
+  // "Book a call" as a button
+  a.nav-link[href*="/schedule"] {
+    background: $accent;
+    color: $white !important;
+    border-radius: 999px;
+    padding: 0.4rem 1rem !important;
+    margin-left: 0.5rem;
+    &:hover { background: $accent-dk; }
+    @media (max-width: 991.98px) {
+      display: inline-block;
+      margin: 0.5rem 0 0.75rem;
+    }
+  }
+}
+
+// ---- Shared layout ----
+.dm-wrap {
+  max-width: 1080px;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.dm-section {
+  padding: 3.5rem 0;
+  @media (max-width: 767.98px) { padding: 2.5rem 0; }
+}
+
+.dm-band { background: $mist; }
+
+.dm-eyebrow {
+  display: block;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: $accent;
+  margin-bottom: 0.5rem;
+}
+
+.dm-lead {
+  font-size: 1.2rem;
+  max-width: 44rem;
+  @media (max-width: 767.98px) { font-size: 1.08rem; }
+}
+
+// ---- Hero ----
+.dm-hero {
+  padding: 4.5rem 0 3.5rem;
+  border-bottom: 1px solid $line;
+  background:
+    radial-gradient(circle at 92% 10%, rgba($accent, 0.08), transparent 45%),
+    $white;
+
+  h1 {
+    font-size: clamp(2rem, 5.2vw, 3.3rem);
+    max-width: 22ch;
+    margin: 0 0 1rem;
+  }
+
+  @media (max-width: 767.98px) { padding: 2.5rem 0 2.5rem; }
+}
+
+// ---- Buttons ----
+.dm-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-top: 1.75rem;
+
+  a {
+    display: inline-block;
+    padding: 0.7rem 1.35rem;
+    border-radius: 999px;
+    font-weight: 600;
+    text-decoration: none;
+    border: 2px solid $accent;
+    text-align: center;
+    @media (max-width: 575.98px) { flex: 1 1 100%; }
+  }
+  a:first-child { background: $accent; color: $white; }
+  a:first-child:hover { background: $accent-dk; border-color: $accent-dk; }
+  a:not(:first-child) { color: $accent; background: transparent; }
+  a:not(:first-child):hover { background: rgba($accent, 0.08); }
+}
+
+// ---- Cards ----
+.dm-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1.25rem;
+  margin-top: 1.5rem;
+}
+
+.dm-card {
+  background: $white;
+  border: 1px solid $line;
+  border-radius: $border-radius;
+  padding: 1.5rem;
+
+  h3 {
+    font-size: 1.12rem;
+    margin: 0 0 0.6rem;
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+  }
+  h3 .bi {
+    color: $accent;
+    font-size: 1.25rem;
+  }
+  p:last-child, ul:last-child { margin-bottom: 0; }
+  ul { padding-left: 1.1rem; }
+  li { margin-bottom: 0.3rem; }
+}
+
+@media (min-width: 768px) {
+  .dm-grid-2 { grid-template-columns: repeat(2, 1fr); }
+}
+
+// ---- Two column (text + list) ----
+.dm-split {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2.5rem;
+  align-items: start;
+  @media (max-width: 767.98px) { grid-template-columns: 1fr; gap: 1rem; }
+}
+
+.dm-points ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  li {
+    padding: 0.85rem 0;
+    border-bottom: 1px solid $line;
+    &:first-child { padding-top: 0; }
+    &:last-child { border-bottom: 0; }
+  }
+  strong { color: $ink; display: block; }
+}
+
+// ---- Tool chips ----
+.dm-chips ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  padding: 0;
+  list-style: none;
+  li {
+    background: $mist;
+    border: 1px solid $line;
+    border-radius: 999px;
+    padding: 0.25rem 0.85rem;
+    font-size: 0.92rem;
+    color: $ink;
+  }
+}
+
+// ---- Call to action band ----
+.dm-cta {
+  background: $ink;
+  color: #d5dde6;
+  text-align: center;
+  h2 { color: $white; border: 0; margin-top: 0; }
+  p { max-width: 36rem; margin-left: auto; margin-right: auto; }
+  .dm-actions { justify-content: center; }
+  .dm-actions a:first-child { background: $white; color: $ink; border-color: $white; }
+  .dm-actions a:not(:first-child) { color: $white; border-color: rgba($white, 0.6); }
+  .dm-actions a:not(:first-child):hover { background: rgba($white, 0.1); }
+}
+
+// Bootstrap h2s get a bottom border in some themes; keep them clean
+h2 { border-bottom: 0; }
+
+// ---- Inner pages ----
+.quarto-title-block .title { font-size: clamp(1.9rem, 4.5vw, 2.6rem); }
+
+.quarto-title-block .description { display: none; }  // meta description is for search/link previews only
+.dm-grid + h2, .dm-grid ~ h2 { margin-top: 2.5rem; }
+
+.quarto-about-jolla {
+  main p { text-align: left; }
+  .quarto-title, .about-links { text-align: center; }
+  .quarto-title .subtitle { color: $accent; font-weight: 500; }
+}
+
+// ---- Footer ----
 .faux-block {
   display: block;
   padding-bottom: 0.4em;
 }
 
 .nav-footer {
-  align-items: flex-start;  // Align all flex items to the top
+  align-items: flex-start;
   flex-wrap: wrap;
-  border: 0 !important;
-  min-height: 3em;
-  // font-family: $footer-font-family;
+  border-top: 1px solid $line !important;
+  font-size: 0.88rem;
+  padding: 1.5rem 1rem;
 
-  // a {
-  //     color: $light-orange;
-  // }
+  .footer-aside { opacity: 0.85; }
 
-  .faux-block {
-      display: block;
-      padding-bottom: 0.4em;
-  }
-
-  .fingerprint {
-      font-family: $font-family-monospace;
-      font-size: 0.8em;
-  }
-
-  // In the default Quarto template, .nav-footer-center has position: absolute 
-  // turned on, which makes the div not be a flex item
-  // This changes that so that it *is* a flex item
-  .nav-footer-center {
-      text-align: center;
-      position: inherit;
-      margin-top: 0;
-
-      @media (max-width: map-get($grid-breakpoints, md)) {
-          margin-top: 0.5em;
-          margin-bottom: 1.5em;
-      }
-  }
-
-  // When the screen is medium or smaller, make each footer chunk be 100% width 
-  // and centered; otherwise make them be 33% width and left/right/centerd
   .nav-footer-left,
   .nav-footer-right,
   .nav-footer-center {
-      text-align: center;
-      width: 100%;
-      min-height: 2em;
+    text-align: center;
+    width: 100%;
   }
 
-  @media (min-width: map-get($grid-breakpoints, md)) {
-      .nav-footer-left {
-          text-align: left;
-      }
-
-      .nav-footer-right {
-          text-align: right;
-      }
-
-      .nav-footer-left,
-      .nav-footer-right,
-      .nav-footer-center {
-          flex: 1 1 33%;
-      }
+  @media (min-width: 768px) {
+    .nav-footer-left { text-align: left; flex: 1 1 50%; }
+    .nav-footer-right { text-align: right; flex: 1 1 50%; }
   }
 }

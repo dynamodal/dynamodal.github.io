@@ -1,8 +1,7 @@
 ---
-title: "404 - Page not found!"
-
+title: "Page not found"
 ---
 
-The page or item that you’re looking for isn’t here! 
+The page you're looking for isn't here. It may have moved when the site was updated.
 
-Try using the {{< fa magnifying-glass >}} **search icon** at the top of the page. 
+[Go to the home page](/) or [get in touch](/contact.html).

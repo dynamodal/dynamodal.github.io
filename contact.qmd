@@ -1,19 +1,32 @@
 ---
-title: "We would love to hear from you!"
+title: "Let's talk"
 pagetitle: "Contact"
-about: 
-  template: jolla
-  image-shape: round
-  links:
-    - icon: envelope-at
-      text: Email
-      href: mailto:info@dynamodal.com
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/thomascwells
-    - icon: github
-      text: Github
-      href: https://github.com/thomascwells
+description: "Book a call or email Thomas Wells at Dynamodal."
 ---
 
-We understand that every organization is unique, and that’s why we take a personalized approach to consulting. Our goal is not just to provide solutions but to empower you with the knowledge and tools to make informed decisions. Together, we can unlock the insights you need to succeed.
+If you have a project coming up, a team that's stretched thin, or questions about bringing AI tools into your work, I'd be glad to hear about it.
+
+::: {.dm-grid}
+
+::: {.dm-card}
+### <i class="bi bi-calendar-check" aria-hidden="true"></i> Book a call
+Pick a time that works for you. A short intro call is the fastest way to see if I'm a fit.
+
+[Choose a time →](https://www.dynamodal.com/schedule/)
+:::
+
+::: {.dm-card}
+### <i class="bi bi-envelope" aria-hidden="true"></i> Email
+Send a few lines about your team and what you're working on.
+
+[info@dynamodal.com](mailto:info@dynamodal.com)
+:::
+
+::: {.dm-card}
+### <i class="bi bi-linkedin" aria-hidden="true"></i> LinkedIn
+Connect or send a message.
+
+[linkedin.com/in/thomascwells](https://www.linkedin.com/in/thomascwells)
+:::
+
+:::
