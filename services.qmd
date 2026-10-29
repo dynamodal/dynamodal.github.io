@@ -1,29 +1,71 @@
 ---
 title: "Services"
+description: "Analytics and modeling for energy efficiency and electrification, AI adoption for analytics teams, data strategy and platforms, and team efficiency."
 ---
 
-At Dynamodal, our suite of consulting services is designed to meet the diverse needs of our clients. Here’s how we can help:
+I work as a subcontractor with consulting firms and their client teams.
+Most engagements combine more than one of the areas below.
+The common thread is helping capable people do more with their data and their tools.
 
-:::{layout-ncol="2" layout-valign="top"}
+::: {.dm-grid .dm-grid-2}
 
-### {{< fa table >}} **Data Science & Analytics**
+::: {.dm-card}
+### <i class="bi bi-graph-up" aria-hidden="true"></i> Analytics & modeling
 
-Developing sophisticated financial models, enabling organizations to assess the potential impact of different strategies, investments, or economic changes, facilitating proactive decision-making.
+- Energy efficiency program evaluation (EM&V) and savings analysis
+- Municipal electrification and energy modeling
+- Systems and scenario modeling
+- Analysis and reporting in R
+:::
 
-### {{< fa chart-line >}} **Modeling & Scenario Analysis**
+::: {.dm-card}
+### <i class="bi bi-stars" aria-hidden="true"></i> AI & coding agents for teams
 
-Navigate uncertainty with confidence. Our systems modeling and scenario analysis services equip you with the insights to make strategic decisions.
+- Find where AI assistants and coding agents fit into your team's work
+- Hands-on training with tools like Claude and GitHub Copilot
+- Guardrails for data privacy, code review, and acceptable use
+- Honest advice on which tools are worth it for your team, and which aren't
+:::
 
-### {{< fa server >}} **Data-Ops & Infrastructure**
+::: {.dm-card}
+### <i class="bi bi-diagram-3" aria-hidden="true"></i> Data strategy & platforms
 
-Streamline your processes with our CI/CD practices. We utilize the latest tools and best practices to ensure smooth data pipelines and efficient operations. Our team will help you design and implement infrastructure that scales with you.
+- Data model design and review
+- Support for client teams through platform migrations
+- Reproducible pipelines with Git, Docker, and CI
+- Bridging what analysts need with what IT requires
+:::
 
-### {{< fa people-group >}} **Team Development**
+::: {.dm-card}
+### <i class="bi bi-lightning-charge" aria-hidden="true"></i> Team efficiency & knowledge
 
-Empower your team with the skills they need to succeed in a data-driven world. We offer training and support to enhance your internal capabilities.
+- Internal documentation and knowledge base design
+- Curation of shared code, templates, and standards
+- Workflow reviews and practical "work hacks"
+- Onboarding material that gets new people productive faster
+:::
 
 :::
 
-### Local Tech Support in Fruita, CO
+## Tools I work with
 
-Looking for local tech support in Fruita, CO? Check out [Fruita Tech Wizard](https://fruitatechwizard.com)!
+::: {.dm-chips}
+- R
+- Quarto
+- Linux
+- Docker
+- Git & GitHub
+- Claude
+- GitHub Copilot
+:::
+
+## How engagements work
+
+Most of my work is billed hourly, either as scoped tasks or as a part-time embedded role on your team.
+I work remotely and travel when a project calls for it.
+If your project needs a different arrangement, let's talk about it.
+
+::: {.dm-actions}
+[Book a call](https://www.dynamodal.com/schedule/)
+[Contact](contact.qmd)
+:::

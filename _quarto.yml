@@ -4,58 +4,54 @@ project:
   render:
     - "*.qmd"
 
-  resources: 
+  resources:
     - "files/**"
+    - "schedule/**"
 
 freeze: auto
 
 website:
   title: "Dynamodal"
+  description: "Thomas Wells is an independent data and AI consultant who helps consulting teams with analytics, data strategy, and putting AI tools to work."
   favicon: "files/favicon.png"
   site-url: "https://www.dynamodal.com"
   repo-url: "https://github.com/dynamodal/dynamodal.github.io"
-  repo-actions: [edit, issue]
+  search: false
+  open-graph:
+    image: files/social-card.png
+    image-width: 1200
+    image-height: 630
+  twitter-card:
+    image: files/social-card.png
+    card-style: summary_large_image
   navbar:
-    pinned: false
-    logo: "files/favicon_light.png"
-    left:
-      - href: index.qmd
-        text: Home
+    pinned: true
+    logo: "files/logo-mark.svg"
+    logo-alt: "Dynamodal logo"
+    right:
+      - href: services.qmd
+        text: "Services"
       - href: about.qmd
         text: "About"
-      - href: services.qmd
       - href: contact.qmd
         text: "Contact"
-      - href: https://fruitatechwizard.com
-        text: "FTW"
-#      - blog.qmd
-#      - projects.qmd
+      - href: https://www.dynamodal.com/schedule/
+        text: "Book a call"
 
   page-footer:
     left: |
-      <span class="faux-block">{{< fa brands creative-commons >}} 2025 Dynamodal, LLC </span>
-      <span class="faux-block">All content licensed under [{{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}} Creative Commons CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)</span>
-      <span class="faux-block"> Theme credit: [Andrew Heiss](https://www.andrewheiss.com/)</span>
-#    center: |
+      <span class="faux-block">© 2026 Dynamodal, LLC · Fruita, Colorado</span>
+      <span class="faux-block footer-aside">Need tech help around Fruita? Try [Fruita Tech Wizard](https://fruitatechwizard.com).</span>
     right: |
-      <span class="faux-block">Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)</span>
-      <span class="faux-block">[View the source at {{< fa brands github >}} GitHub](https://github.com/dynamodal/dynamodal.github.io)</span>
+      <span class="faux-block">Built with [R](https://www.r-project.org/) and [Quarto](https://quarto.org/)</span>
+      <span class="faux-block">[<i class="bi bi-github" aria-hidden="true"></i> View source](https://github.com/dynamodal/dynamodal.github.io)</span>
 
 format:
   html:
-    theme: 
-      - lux
+    theme:
+      - default
       - html/styles.scss
-#    grid: 
-#      body-width: 900px
     toc: false
-    code-link: true
-    anchor-sections: true
-    fig-cap-location: margin
-    reference-location: margin
-    footnotes-hover: true
-#    highlight-style: monokai
-
-  
-  
-  
+    anchor-sections: false
+    smooth-scroll: true
+    link-external-newwindow: false

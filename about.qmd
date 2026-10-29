@@ -1,12 +1,39 @@
 ---
 title: "Thomas Wells"
+subtitle: "Founder & principal, Dynamodal"
 pagetitle: "About"
+description: "Thomas Wells is an independent data and AI consultant in Fruita, Colorado, with a background in physics, engineering, and energy consulting."
 image: files/headshot.jpg
-about: 
+about:
   template: jolla
   image-shape: round
+  image-width: 13em
+  links:
+    - icon: calendar-check
+      text: Book a call
+      href: https://www.dynamodal.com/schedule/
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/thomascwells
+    - icon: github
+      text: GitHub
+      href: https://github.com/thomascwells
 ---
 
-Thomas is a seasoned data science and engineering expert with a passion for transforming complex challenges into actionable insights. As the principal of Dynamodal, he specializes in systems modeling, analytics infrastructure, and consulting services that empower businesses to harness the full potential of their data.
+I'm an independent data and AI consultant based in Fruita, Colorado.
+I founded Dynamodal in 2022, and I work as a subcontractor with consulting teams that need an experienced, hands-on data person.
 
-With two decades as a data practitioner and R-user, Thomas has cultivated a wealth of experience across various sectors. Before founding Dynamodal in 2022, he served on the Data Analytics and Modeling team at Guidehouse consulting, where he delivered critical data analysis and scenario modeling services for utility and government clients. His projects ranged from grid modernization modeling to energy efficiency evaluations, showcasing his ability to tackle diverse data challenges.
+I studied physics and electrical engineering at the Colorado School of Mines, then spent several years in Alaska's oil fields before moving into data science consulting.
+Before Dynamodal, I was on the data analytics and modeling team at a national consulting firm, delivering scenario modeling and analysis for utility and government clients on everything from grid modernization to energy efficiency evaluation.
+
+I've worked with data for about two decades and with R for nearly as long.
+Along the way I've done a lot of IT work too, and that's where I'm most useful: between the people who want to do ambitious analysis and the systems, policies, and tools that have to support it.
+
+These days my work centers on four things:
+analytics and scenario modeling, especially for energy efficiency and electrification;
+helping teams adopt AI tools and coding agents with clear eyes about the risks;
+designing data models and platforms that hold up;
+and making teams more efficient through better documentation, workflows, and habits.
+
+When I'm not working, I'm usually on a bike, running, or out on the trails and rivers around Fruita.
+I also run [Fruita Tech Wizard](https://fruitatechwizard.com), a small side project helping neighbors with their everyday tech.

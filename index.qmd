@@ -1,14 +1,136 @@
 ---
+pagetitle: "Dynamodal | Data and AI support for consulting teams"
+description: "Thomas Wells is an independent data and AI consultant. Consulting firms bring him in for analytics and modeling, data strategy, and help putting AI tools to work safely."
+page-layout: full
 ---
 
-![](files/logo.svg){height="100" fig-align="center"} 
+::: {.dm-hero}
+::: {.dm-wrap}
 
-::: {style="text-align: center"}
+[Dynamodal · Independent data & AI consulting]{.dm-eyebrow}
 
-# Dynamodal
+# Senior data and AI support for consulting teams.
 
-*Trusted Partner for Data-Driven Insights*
+[I'm Thomas Wells.
+Consulting firms bring me in to deliver analytics and modeling, especially in energy efficiency and electrification, to sort out their data platforms, and to help their people get real value from AI tools without taking on careless risk.
+I work as a subcontractor or as an embedded member of your team.]{.dm-lead}
+
+::: {.dm-actions}
+[Book a call](https://www.dynamodal.com/schedule/)
+[How I help](services.qmd)
+:::
+
+:::
+:::
+
+::: {.dm-section}
+::: {.dm-wrap}
+
+[Where I help]{.dm-eyebrow}
+
+## Practical help where data, tools, and people meet
+
+::: {.dm-grid .dm-grid-2}
+
+::: {.dm-card}
+### <i class="bi bi-graph-up" aria-hidden="true"></i> Analytics & modeling
+
+Energy efficiency analysis and program evaluation, electrification planning, and systems and scenario modeling.
+Clear, defensible numbers your team and your client can act on.
+:::
+
+::: {.dm-card}
+### <i class="bi bi-stars" aria-hidden="true"></i> AI for analytics teams
+
+AI assistants and coding agents can multiply what a team gets done, or quietly add new risks.
+I help teams choose the right tools, set sensible guardrails, and build habits that stick.
+:::
+
+::: {.dm-card}
+### <i class="bi bi-diagram-3" aria-hidden="true"></i> Data strategy & platforms
+
+Data model design, platform migrations, and the practical decisions that make analytics reliable, maintainable, and acceptable to IT.
+:::
+
+::: {.dm-card}
+### <i class="bi bi-lightning-charge" aria-hidden="true"></i> Team efficiency
+
+Internal documentation, knowledge bases, reproducible workflows, and the small "work hacks" that give a team hours back every week.
+:::
 
 :::
 
-At Dynamodal, we transform complex data challenges into insightful solutions tailored for your team. Specializing in consulting services and temporary staffing, we bring a wealth of expertise in data science, analytics, and DevOps. Whether you’re an electric utility with EM&V needs or a startup looking to harness the power of data, we’re here to help you derive value from your resources. 
+:::
+:::
+
+::: {.dm-section .dm-band}
+::: {.dm-wrap}
+::: {.dm-split}
+
+::: {}
+[Why teams bring me in]{.dm-eyebrow}
+
+## I bridge what analysts need and what IT can support
+
+My background runs through physics, electrical engineering, field work in Alaska's oil fields, and years of energy consulting, with plenty of IT along the way.
+That mix lets me translate between what analysts and data scientists want to do, what the tools can actually do, and what IT will allow.
+Then I find a path that works for all three.
+:::
+
+::: {.dm-points}
+- **I see the whole picture.** I look at the workflow around a task, not just the task.
+- **I'm proactive.** You'll hear about risks and opportunities early, not after they've cost you.
+- **I communicate clearly.** I explain things plainly to analysts, IT, managers, and clients.
+- **I help you work smarter.** I stay current on tools and bring practical shortcuts that make a team faster.
+:::
+
+:::
+:::
+:::
+
+::: {.dm-section}
+::: {.dm-wrap}
+
+[Working together]{.dm-eyebrow}
+
+## Flexible, low-overhead engagements
+
+::: {.dm-grid}
+
+::: {.dm-card}
+### <i class="bi bi-clock" aria-hidden="true"></i> Hourly support
+Scoped tasks or ongoing help, billed hourly.
+Easy to start, easy to scale up or down.
+:::
+
+::: {.dm-card}
+### <i class="bi bi-people" aria-hidden="true"></i> Embedded
+A part-time member of your team for a project or a busy season, working in your tools and your process.
+:::
+
+::: {.dm-card}
+### <i class="bi bi-geo-alt" aria-hidden="true"></i> Remote first
+Based in western Colorado and working remotely.
+Happy to travel when a project calls for it.
+:::
+
+:::
+
+:::
+:::
+
+::: {.dm-section .dm-cta}
+::: {.dm-wrap}
+
+## Have a project, or a team that could use a hand?
+
+The quickest way to start is a short call.
+Tell me what you're working on, and we'll see if I'm a good fit.
+
+::: {.dm-actions}
+[Book a call](https://www.dynamodal.com/schedule/)
+[Email me](mailto:info@dynamodal.com)
+:::
+
+:::
+:::
