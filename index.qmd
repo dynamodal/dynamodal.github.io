@@ -1,6 +1,6 @@
 ---
 pagetitle: "Dynamodal | Data and AI support for consulting teams"
-description: "Thomas Wells is an independent data and AI consultant. Consulting firms bring him in for analytics, data strategy, and help putting AI tools to work safely."
+description: "Thomas Wells is an independent data and AI consultant. Consulting firms bring him in for analytics and modeling, data strategy, and help putting AI tools to work safely."
 page-layout: full
 ---
 
@@ -11,7 +11,9 @@ page-layout: full
 
 # Senior data and AI support for consulting teams.
 
-[I'm Thomas Wells. Consulting firms bring me in to strengthen their analytics, sort out their data platforms, and help their people get real value from AI tools without taking on careless risk. I work remotely, as a subcontractor or as an embedded member of your team.]{.dm-lead}
+[I'm Thomas Wells.
+Consulting firms bring me in to deliver analytics and modeling, especially in energy efficiency and electrification, to sort out their data platforms, and to help their people get real value from AI tools without taking on careless risk.
+I work as a subcontractor or as an embedded member of your team.]{.dm-lead}
 
 ::: {.dm-actions}
 [Book a call](https://www.dynamodal.com/schedule/)
@@ -31,21 +33,23 @@ page-layout: full
 ::: {.dm-grid .dm-grid-2}
 
 ::: {.dm-card}
+### <i class="bi bi-graph-up" aria-hidden="true"></i> Analytics & modeling
+
+Energy efficiency analysis and program evaluation, electrification planning, and systems and scenario modeling.
+Clear, defensible numbers your team and your client can act on.
+:::
+
+::: {.dm-card}
 ### <i class="bi bi-stars" aria-hidden="true"></i> AI for analytics teams
 
-AI assistants and coding agents can multiply what a team gets done, or quietly add new risks. I help teams choose the right tools, set sensible guardrails, and build habits that stick.
+AI assistants and coding agents can multiply what a team gets done, or quietly add new risks.
+I help teams choose the right tools, set sensible guardrails, and build habits that stick.
 :::
 
 ::: {.dm-card}
 ### <i class="bi bi-diagram-3" aria-hidden="true"></i> Data strategy & platforms
 
 Data model design, platform migrations, and the practical decisions that make analytics reliable, maintainable, and acceptable to IT.
-:::
-
-::: {.dm-card}
-### <i class="bi bi-graph-up" aria-hidden="true"></i> Analytics & modeling
-
-Systems and scenario modeling, with deep roots in energy and utilities: electrification planning, program evaluation, and grid modernization.
 :::
 
 ::: {.dm-card}
@@ -68,7 +72,9 @@ Internal documentation, knowledge bases, reproducible workflows, and the small "
 
 ## I bridge what analysts need and what IT can support
 
-My background runs through physics, electrical engineering, field work in Alaska's oil fields, and years of consulting, with plenty of IT along the way. That mix lets me translate between what analysts and data scientists want to do, what the tools can actually do, and what IT will allow, and then find a path that works for all three.
+My background runs through physics, electrical engineering, field work in Alaska's oil fields, and years of energy consulting, with plenty of IT along the way.
+That mix lets me translate between what analysts and data scientists want to do, what the tools can actually do, and what IT will allow.
+Then I find a path that works for all three.
 :::
 
 ::: {.dm-points}
@@ -93,7 +99,8 @@ My background runs through physics, electrical engineering, field work in Alaska
 
 ::: {.dm-card}
 ### <i class="bi bi-clock" aria-hidden="true"></i> Hourly support
-Scoped tasks or ongoing help, billed hourly. Easy to start, easy to scale up or down.
+Scoped tasks or ongoing help, billed hourly.
+Easy to start, easy to scale up or down.
 :::
 
 ::: {.dm-card}
@@ -102,8 +109,9 @@ A part-time member of your team for a project or a busy season, working in your 
 :::
 
 ::: {.dm-card}
-### <i class="bi bi-laptop" aria-hidden="true"></i> Remote
-Based in western Colorado and fully remote. Dynamodal is an insured single-member LLC.
+### <i class="bi bi-geo-alt" aria-hidden="true"></i> Remote first
+Based in western Colorado and working remotely.
+Happy to travel when a project calls for it.
 :::
 
 :::
@@ -116,7 +124,8 @@ Based in western Colorado and fully remote. Dynamodal is an insured single-membe
 
 ## Have a project, or a team that could use a hand?
 
-The quickest way to start is a short call. Tell me what you're working on, and we'll see if I'm a good fit.
+The quickest way to start is a short call.
+Tell me what you're working on, and we'll see if I'm a good fit.
 
 ::: {.dm-actions}
 [Book a call](https://www.dynamodal.com/schedule/)

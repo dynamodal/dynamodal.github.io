@@ -1,11 +1,22 @@
 ---
 title: "Services"
-description: "AI adoption for analytics teams, data strategy and platforms, analytics and modeling, and team efficiency. Delivered as hourly or embedded remote support."
+description: "Analytics and modeling for energy efficiency and electrification, AI adoption for analytics teams, data strategy and platforms, and team efficiency."
 ---
 
-I work as a subcontractor with consulting firms and their client teams. Most engagements combine more than one of the areas below. The common thread is helping capable people do more with their data and their tools.
+I work as a subcontractor with consulting firms and their client teams.
+Most engagements combine more than one of the areas below.
+The common thread is helping capable people do more with their data and their tools.
 
 ::: {.dm-grid .dm-grid-2}
+
+::: {.dm-card}
+### <i class="bi bi-graph-up" aria-hidden="true"></i> Analytics & modeling
+
+- Energy efficiency program evaluation (EM&V) and savings analysis
+- Municipal electrification and energy modeling
+- Systems and scenario modeling
+- Analysis and reporting in R
+:::
 
 ::: {.dm-card}
 ### <i class="bi bi-stars" aria-hidden="true"></i> AI & coding agents for teams
@@ -23,15 +34,6 @@ I work as a subcontractor with consulting firms and their client teams. Most eng
 - Support for client teams through platform migrations
 - Reproducible pipelines with Git, Docker, and CI
 - Bridging what analysts need with what IT requires
-:::
-
-::: {.dm-card}
-### <i class="bi bi-graph-up" aria-hidden="true"></i> Analytics & modeling
-
-- Systems and scenario modeling
-- Municipal electrification and energy modeling
-- Energy efficiency program evaluation (EM&V)
-- Analysis and reporting in R
 :::
 
 ::: {.dm-card}
@@ -59,7 +61,9 @@ I work as a subcontractor with consulting firms and their client teams. Most eng
 
 ## How engagements work
 
-Most of my work is billed hourly, either as scoped tasks or as a part-time embedded role on your team. Everything is remote. If your project needs a different arrangement, let's talk about it.
+Most of my work is billed hourly, either as scoped tasks or as a part-time embedded role on your team.
+I work remotely and travel when a project calls for it.
+If your project needs a different arrangement, let's talk about it.
 
 ::: {.dm-actions}
 [Book a call](https://www.dynamodal.com/schedule/)

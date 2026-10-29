@@ -10,7 +10,8 @@ If you have a project coming up, a team that's stretched thin, or questions abou
 
 ::: {.dm-card}
 ### <i class="bi bi-calendar-check" aria-hidden="true"></i> Book a call
-Pick a time that works for you. A short intro call is the fastest way to see if I'm a fit.
+Pick a time that works for you.
+A short intro call is the fastest way to see if I'm a fit.
 
 [Choose a time →](https://www.dynamodal.com/schedule/)
 :::
