@@ -4,7 +4,7 @@
     "href": "services.html",
     "title": "Services",
     "section": "",
-    "text": "I work as a subcontractor with consulting firms and their client teams. Most engagements combine more than one of the areas below. The common thread is helping capable people do more with their data and their tools."
+    "text": "I work mostly as a subcontractor with consulting firms and their client teams, and I take on direct client work too. Most engagements combine more than one of the areas below. The common thread is helping capable people do more with their data and their tools."
   },
   {
     "objectID": "services.html#tools-i-work-with",
@@ -18,7 +18,7 @@
     "href": "services.html#how-engagements-work",
     "title": "Services",
     "section": "How engagements work",
-    "text": "How engagements work\nMost of my work is billed hourly, either as scoped tasks or as a part-time embedded role on your team. I work remotely and travel when a project calls for it. If your project needs a different arrangement, let’s talk about it.\n\nBook a call Contact"
+    "text": "How engagements work\nMost of my work is billed hourly, either as scoped tasks or as a part-time embedded role on your team. I work remotely and travel when a project calls for it. The arrangement is the same whether I’m subcontracting for a consulting firm or working directly with your organization. If your project needs a different arrangement, let’s talk about it.\n\nBook a call Contact"
   },
   {
     "objectID": "contact.html",
@@ -32,40 +32,40 @@
     "href": "about.html",
     "title": "Thomas Wells",
     "section": "",
-    "text": "I’m an independent data and AI consultant based in Fruita, Colorado. I founded Dynamodal in 2022, and I work as a subcontractor with consulting teams that need an experienced, hands-on data person.\nI studied physics and electrical engineering at the Colorado School of Mines, then spent several years in Alaska’s oil fields before moving into data science consulting. Before Dynamodal, I was on the data analytics and modeling team at a national consulting firm, delivering scenario modeling and analysis for utility and government clients on everything from grid modernization to energy efficiency evaluation.\nI’ve worked with data for about two decades and with R for nearly as long. Along the way I’ve done a lot of IT work too, and that’s where I’m most useful: between the people who want to do ambitious analysis and the systems, policies, and tools that have to support it.\nThese days my work centers on four things: analytics and scenario modeling, especially for energy efficiency and electrification; helping teams adopt AI tools and coding agents with clear eyes about the risks; designing data models and platforms that hold up; and making teams more efficient through better documentation, workflows, and habits.\nWhen I’m not working, I’m usually on a bike, running, or out on the trails and rivers around Fruita. I also run Fruita Tech Wizard, a small side project helping neighbors with their everyday tech."
+    "text": "I’m an independent data and AI consultant based in Fruita, Colorado. I founded Dynamodal in 2022, and I work mostly as a subcontractor with consulting teams that need an experienced, hands-on data person, and I take on direct client work too.\nI studied physics and electrical engineering at the Colorado School of Mines, then spent several years in Alaska’s oil fields before moving into data science consulting. Before Dynamodal, I was on the data analytics and modeling team at a national consulting firm, delivering scenario modeling and analysis for utility and government clients on everything from grid modernization to energy efficiency evaluation.\nI’ve worked with data for about two decades and with R for nearly as long. Along the way I’ve done a lot of IT work too, and that’s where I’m most useful: between the people who want to do ambitious analysis and the systems, policies, and tools that have to support it.\nThese days my work centers on four things: analytics and scenario modeling, especially for energy efficiency and electrification; helping teams adopt AI tools and coding agents with clear eyes about the risks; designing data models and platforms that hold up; and making teams more efficient through better documentation, workflows, and habits.\nWhen I’m not working, I’m usually on a bike, running, or out on the trails and rivers around Fruita. I also run Fruita Tech Wizard, a small side project helping neighbors with their everyday tech."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Senior data and AI support for consulting teams.",
+    "title": "Senior data and AI support for consultants and organizations.",
     "section": "",
-    "text": "Dynamodal · Independent data & AI consulting\n\n\nI’m Thomas Wells. Consulting firms bring me in to deliver analytics and modeling, especially in energy efficiency and electrification, to sort out their data platforms, and to help their people get real value from AI tools without taking on careless risk. I work as a subcontractor or as an embedded member of your team.\n\nBook a call How I help"
+    "text": "Dynamodal · Independent data & AI consulting\n\n\nI’m Thomas Wells. Consulting firms and organizations bring me in to deliver analytics and modeling, especially in energy efficiency and electrification, to sort out their data platforms, and to help their people get real value from AI tools without taking on careless risk. I work as a subcontractor to consulting firms or directly with clients, on scoped tasks or as an embedded member of your team.\n\nBook a call How I help"
   },
   {
     "objectID": "index.html#practical-help-where-data-tools-and-people-meet",
     "href": "index.html#practical-help-where-data-tools-and-people-meet",
-    "title": "Senior data and AI support for consulting teams.",
+    "title": "Senior data and AI support for consultants and organizations.",
     "section": "Practical help where data, tools, and people meet",
     "text": "Practical help where data, tools, and people meet\n\n\n Analytics & modeling\nEnergy efficiency analysis and program evaluation, electrification planning, and systems and scenario modeling. Clear, defensible numbers your team and your client can act on.\n\n\n AI for analytics teams\nAI assistants and coding agents can multiply what a team gets done, or quietly add new risks. I help teams choose the right tools, set sensible guardrails, and build habits that stick.\n\n\n Data strategy & platforms\nData model design, platform migrations, and the practical decisions that make analytics reliable, maintainable, and acceptable to IT.\n\n\n Team efficiency\nInternal documentation, knowledge bases, reproducible workflows, and the small “work hacks” that give a team hours back every week."
   },
   {
     "objectID": "index.html#i-bridge-what-analysts-need-and-what-it-can-support",
     "href": "index.html#i-bridge-what-analysts-need-and-what-it-can-support",
-    "title": "Senior data and AI support for consulting teams.",
+    "title": "Senior data and AI support for consultants and organizations.",
     "section": "I bridge what analysts need and what IT can support",
     "text": "I bridge what analysts need and what IT can support\nMy background runs through physics, electrical engineering, field work in Alaska’s oil fields, and years of energy consulting, with plenty of IT along the way. That mix lets me translate between what analysts and data scientists want to do, what the tools can actually do, and what IT will allow. Then I find a path that works for all three."
   },
   {
     "objectID": "index.html#flexible-low-overhead-engagements",
     "href": "index.html#flexible-low-overhead-engagements",
-    "title": "Senior data and AI support for consulting teams.",
+    "title": "Senior data and AI support for consultants and organizations.",
     "section": "Flexible, low-overhead engagements",
     "text": "Flexible, low-overhead engagements\n\n\n Hourly support\nScoped tasks or ongoing help, billed hourly. Easy to start, easy to scale up or down.\n\n\n Embedded\nA part-time member of your team for a project or a busy season, working in your tools and your process.\n\n\n Remote first\nBased in western Colorado and working remotely. Happy to travel when a project calls for it."
   },
   {
     "objectID": "index.html#have-a-project-or-a-team-that-could-use-a-hand",
     "href": "index.html#have-a-project-or-a-team-that-could-use-a-hand",
-    "title": "Senior data and AI support for consulting teams.",
+    "title": "Senior data and AI support for consultants and organizations.",
     "section": "Have a project, or a team that could use a hand?",
     "text": "Have a project, or a team that could use a hand?\nThe quickest way to start is a short call. Tell me what you’re working on, and we’ll see if I’m a good fit.\n\nBook a call Email me"
   }
