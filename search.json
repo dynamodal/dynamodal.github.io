@@ -4,27 +4,69 @@
     "href": "services.html",
     "title": "Services",
     "section": "",
-    "text": "At Dynamodal, our suite of consulting services is designed to meet the diverse needs of our clients. Here’s how we can help:\n\n\n\n Data Science & Analytics\nDeveloping sophisticated financial models, enabling organizations to assess the potential impact of different strategies, investments, or economic changes, facilitating proactive decision-making.\n\n\n Modeling & Scenario Analysis\nNavigate uncertainty with confidence. Our systems modeling and scenario analysis services equip you with the insights to make strategic decisions.\n\n\n\n\n Data-Ops & Infrastructure\nStreamline your processes with our CI/CD practices. We utilize the latest tools and best practices to ensure smooth data pipelines and efficient operations. Our team will help you design and implement infrastructure that scales with you.\n\n\n Team Development\nEmpower your team with the skills they need to succeed in a data-driven world. We offer training and support to enhance your internal capabilities.\n\n\n\n\nLocal Tech Support in Fruita, CO\nLooking for local tech support in Fruita, CO? Check out Fruita Tech Wizard!"
+    "text": "I work as a subcontractor with consulting firms and their client teams. Most engagements combine more than one of the areas below. The common thread is helping capable people do more with their data and their tools."
+  },
+  {
+    "objectID": "services.html#tools-i-work-with",
+    "href": "services.html#tools-i-work-with",
+    "title": "Services",
+    "section": "Tools I work with",
+    "text": "Tools I work with\n\n\nR\nQuarto\nLinux\nDocker\nGit & GitHub\nClaude\nGitHub Copilot"
+  },
+  {
+    "objectID": "services.html#how-engagements-work",
+    "href": "services.html#how-engagements-work",
+    "title": "Services",
+    "section": "How engagements work",
+    "text": "How engagements work\nMost of my work is billed hourly, either as scoped tasks or as a part-time embedded role on your team. I work remotely and travel when a project calls for it. If your project needs a different arrangement, let’s talk about it.\n\nBook a call Contact"
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
-    "title": "We would love to hear from you!",
+    "title": "Let’s talk",
     "section": "",
-    "text": "We understand that every organization is unique, and that’s why we take a personalized approach to consulting. Our goal is not just to provide solutions but to empower you with the knowledge and tools to make informed decisions. Together, we can unlock the insights you need to succeed."
+    "text": "If you have a project coming up, a team that’s stretched thin, or questions about bringing AI tools into your work, I’d be glad to hear about it.\n\n\n Book a call\nPick a time that works for you. A short intro call is the fastest way to see if I’m a fit.\nChoose a time →\n\n\n Email\nSend a few lines about your team and what you’re working on.\ninfo@dynamodal.com\n\n\n LinkedIn\nConnect or send a message.\nlinkedin.com/in/thomascwells"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Thomas Wells",
     "section": "",
-    "text": "Thomas is a seasoned data science and engineering expert with a passion for transforming complex challenges into actionable insights. As the principal of Dynamodal, he specializes in systems modeling, analytics infrastructure, and consulting services that empower businesses to harness the full potential of their data.\nWith two decades as a data practitioner and R-user, Thomas has cultivated a wealth of experience across various sectors. Before founding Dynamodal in 2022, he served on the Data Analytics and Modeling team at Guidehouse consulting, where he delivered critical data analysis and scenario modeling services for utility and government clients. His projects ranged from grid modernization modeling to energy efficiency evaluations, showcasing his ability to tackle diverse data challenges."
+    "text": "I’m an independent data and AI consultant based in Fruita, Colorado. I founded Dynamodal in 2022, and I work as a subcontractor with consulting teams that need an experienced, hands-on data person.\nI studied physics and electrical engineering at the Colorado School of Mines, then spent several years in Alaska’s oil fields before moving into data science consulting. Before Dynamodal, I was on the data analytics and modeling team at a national consulting firm, delivering scenario modeling and analysis for utility and government clients on everything from grid modernization to energy efficiency evaluation.\nI’ve worked with data for about two decades and with R for nearly as long. Along the way I’ve done a lot of IT work too, and that’s where I’m most useful: between the people who want to do ambitious analysis and the systems, policies, and tools that have to support it.\nThese days my work centers on four things: analytics and scenario modeling, especially for energy efficiency and electrification; helping teams adopt AI tools and coding agents with clear eyes about the risks; designing data models and platforms that hold up; and making teams more efficient through better documentation, workflows, and habits.\nWhen I’m not working, I’m usually on a bike, running, or out on the trails and rivers around Fruita. I also run Fruita Tech Wizard, a small side project helping neighbors with their everyday tech."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Dynamodal",
+    "title": "Senior data and AI support for consulting teams.",
     "section": "",
-    "text": "Dynamodal\nTrusted Partner for Data-Driven Insights\n\nAt Dynamodal, we transform complex data challenges into insightful solutions tailored for your team. Specializing in consulting services and temporary staffing, we bring a wealth of expertise in data science, analytics, and DevOps. Whether you’re an electric utility with EM&V needs or a startup looking to harness the power of data, we’re here to help you derive value from your resources."
+    "text": "Dynamodal · Independent data & AI consulting\n\n\nI’m Thomas Wells. Consulting firms bring me in to deliver analytics and modeling, especially in energy efficiency and electrification, to sort out their data platforms, and to help their people get real value from AI tools without taking on careless risk. I work as a subcontractor or as an embedded member of your team.\n\nBook a call How I help"
+  },
+  {
+    "objectID": "index.html#practical-help-where-data-tools-and-people-meet",
+    "href": "index.html#practical-help-where-data-tools-and-people-meet",
+    "title": "Senior data and AI support for consulting teams.",
+    "section": "Practical help where data, tools, and people meet",
+    "text": "Practical help where data, tools, and people meet\n\n\n Analytics & modeling\nEnergy efficiency analysis and program evaluation, electrification planning, and systems and scenario modeling. Clear, defensible numbers your team and your client can act on.\n\n\n AI for analytics teams\nAI assistants and coding agents can multiply what a team gets done, or quietly add new risks. I help teams choose the right tools, set sensible guardrails, and build habits that stick.\n\n\n Data strategy & platforms\nData model design, platform migrations, and the practical decisions that make analytics reliable, maintainable, and acceptable to IT.\n\n\n Team efficiency\nInternal documentation, knowledge bases, reproducible workflows, and the small “work hacks” that give a team hours back every week."
+  },
+  {
+    "objectID": "index.html#i-bridge-what-analysts-need-and-what-it-can-support",
+    "href": "index.html#i-bridge-what-analysts-need-and-what-it-can-support",
+    "title": "Senior data and AI support for consulting teams.",
+    "section": "I bridge what analysts need and what IT can support",
+    "text": "I bridge what analysts need and what IT can support\nMy background runs through physics, electrical engineering, field work in Alaska’s oil fields, and years of energy consulting, with plenty of IT along the way. That mix lets me translate between what analysts and data scientists want to do, what the tools can actually do, and what IT will allow. Then I find a path that works for all three."
+  },
+  {
+    "objectID": "index.html#flexible-low-overhead-engagements",
+    "href": "index.html#flexible-low-overhead-engagements",
+    "title": "Senior data and AI support for consulting teams.",
+    "section": "Flexible, low-overhead engagements",
+    "text": "Flexible, low-overhead engagements\n\n\n Hourly support\nScoped tasks or ongoing help, billed hourly. Easy to start, easy to scale up or down.\n\n\n Embedded\nA part-time member of your team for a project or a busy season, working in your tools and your process.\n\n\n Remote first\nBased in western Colorado and working remotely. Happy to travel when a project calls for it."
+  },
+  {
+    "objectID": "index.html#have-a-project-or-a-team-that-could-use-a-hand",
+    "href": "index.html#have-a-project-or-a-team-that-could-use-a-hand",
+    "title": "Senior data and AI support for consulting teams.",
+    "section": "Have a project, or a team that could use a hand?",
+    "text": "Have a project, or a team that could use a hand?\nThe quickest way to start is a short call. Tell me what you’re working on, and we’ll see if I’m a good fit.\n\nBook a call Email me"
   }
 ]
