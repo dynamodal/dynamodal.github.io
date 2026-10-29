@@ -3,7 +3,7 @@ title: "Services"
 description: "Analytics and modeling for energy efficiency and electrification, AI adoption for analytics teams, data strategy and platforms, and team efficiency."
 ---
 
-I work as a subcontractor with consulting firms and their client teams.
+I work mostly as a subcontractor with consulting firms and their client teams, and I take on direct client work too.
 Most engagements combine more than one of the areas below.
 The common thread is helping capable people do more with their data and their tools.
 
@@ -63,6 +63,7 @@ The common thread is helping capable people do more with their data and their to
 
 Most of my work is billed hourly, either as scoped tasks or as a part-time embedded role on your team.
 I work remotely and travel when a project calls for it.
+The arrangement is the same whether I'm subcontracting for a consulting firm or working directly with your organization.
 If your project needs a different arrangement, let's talk about it.
 
 ::: {.dm-actions}

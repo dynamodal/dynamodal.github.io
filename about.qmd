@@ -21,7 +21,7 @@ about:
 ---
 
 I'm an independent data and AI consultant based in Fruita, Colorado.
-I founded Dynamodal in 2022, and I work as a subcontractor with consulting teams that need an experienced, hands-on data person.
+I founded Dynamodal in 2022, and I work mostly as a subcontractor with consulting teams that need an experienced, hands-on data person, and I take on direct client work too.
 
 I studied physics and electrical engineering at the Colorado School of Mines, then spent several years in Alaska's oil fields before moving into data science consulting.
 Before Dynamodal, I was on the data analytics and modeling team at a national consulting firm, delivering scenario modeling and analysis for utility and government clients on everything from grid modernization to energy efficiency evaluation.
