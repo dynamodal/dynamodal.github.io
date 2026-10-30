@@ -220,6 +220,8 @@ h1, h2, h3 { letter-spacing: -0.015em; }
   .dm-actions a:not(:first-child):hover { background: rgba($white, 0.1); }
 }
 
+.dm-grid + p { margin-top: 1.5rem; }
+
 // Bootstrap h2s get a bottom border in some themes; keep them clean
 h2 { border-bottom: 0; }
 
