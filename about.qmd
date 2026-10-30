@@ -16,7 +16,10 @@ about:
       text: LinkedIn
       href: https://www.linkedin.com/in/thomascwells
     - icon: github
-      text: GitHub
+      text: Dynamodal on GitHub
+      href: https://github.com/dynamodal
+    - icon: person-circle
+      text: Personal GitHub
       href: https://github.com/thomascwells
 ---
 

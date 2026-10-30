@@ -1,0 +1,34 @@
+---
+title: "Projects"
+description: "Open-source tools from Dynamodal, including Yak, a local-first time tracker and note taker with peer-to-peer sync."
+---
+
+Things I've built, mostly for myself and the people I work with.
+They're open source, and you're welcome to use them, fork them, or send feedback.
+
+::: {.dm-grid}
+
+::: {.dm-card}
+### <i class="bi bi-stopwatch" aria-hidden="true"></i> Yak
+
+**Your Activity Keeper:** a time tracker with Markdown notes and tasks that runs entirely in your browser.
+I built it for myself and for fellow consultants who bill by the hour and keep notes on everything.
+
+- No install, no account, and no server holding your data
+- Optional peer-to-peer sync between your own devices; the relay only introduces them and never sees your data
+- Notes and tasks are plain Markdown, with an Obsidian plugin that syncs both ways
+- Toggl import, and CSV and JSON export
+- Built to pass an IT review: no remote code, a strict security policy, and few dependencies
+
+Yak is in alpha.
+I built it largely with AI coding agents, as a hands-on test of the workflows I help teams adopt.
+
+::: {.dm-actions}
+[Open Yak](https://yak.dynamodal.com)
+[Source on GitHub](https://github.com/dynamodal/yak)
+:::
+:::
+
+:::
+
+More of my work is on [GitHub](https://github.com/dynamodal).
