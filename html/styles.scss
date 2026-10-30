@@ -240,7 +240,7 @@ h2 { border-bottom: 0; }
 // ---- Footer ----
 .faux-block {
   display: block;
-  padding-bottom: 0.4em;
+  padding-bottom: 0.2em;
 }
 
 .nav-footer {
@@ -248,13 +248,15 @@ h2 { border-bottom: 0; }
   flex-wrap: wrap;
   border-top: 1px solid $line !important;
   font-size: 0.88rem;
-  padding: 1.5rem 1rem;
+  padding: 1rem;
 
   .footer-aside { opacity: 0.85; }
 
+  // Neither footer uses the center slot; hiding it keeps left/right side by side
+  .nav-footer-center { display: none; }
+
   .nav-footer-left,
-  .nav-footer-right,
-  .nav-footer-center {
+  .nav-footer-right {
     text-align: center;
     width: 100%;
   }
