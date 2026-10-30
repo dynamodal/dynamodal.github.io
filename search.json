@@ -21,20 +21,6 @@
     "text": "How engagements work\nMost of my work is billed hourly, either as scoped tasks or as a part-time embedded role on your team. I work remotely and travel when a project calls for it. The arrangement is the same whether I’m subcontracting for a consulting firm or working directly with your organization. If your project needs a different arrangement, let’s talk about it.\n\nBook a call Contact"
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Let’s talk",
-    "section": "",
-    "text": "If you have a project coming up, a team that’s stretched thin, or questions about bringing AI tools into your work, I’d be glad to hear about it.\n\n\n Book a call\nPick a time that works for you. A short intro call is the fastest way to see if I’m a fit.\nChoose a time →\n\n\n Email\nSend a few lines about your team and what you’re working on.\ninfo@dynamodal.com\n\n\n LinkedIn\nConnect or send a message.\nlinkedin.com/in/thomascwells"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Thomas Wells",
-    "section": "",
-    "text": "I’m an independent data and AI consultant based in Fruita, Colorado. I founded Dynamodal in 2022, and I work mostly as a subcontractor with consulting teams that need an experienced, hands-on data person, and I take on direct client work too.\nI studied physics and electrical engineering at the Colorado School of Mines, then spent several years in Alaska’s oil fields before moving into data science consulting. Before Dynamodal, I was on the data analytics and modeling team at a national consulting firm, delivering scenario modeling and analysis for utility and government clients on everything from grid modernization to energy efficiency evaluation.\nI’ve worked with data for about two decades and with R for nearly as long. Along the way I’ve done a lot of IT work too, and that’s where I’m most useful: between the people who want to do ambitious analysis and the systems, policies, and tools that have to support it.\nThese days my work centers on four things: analytics and scenario modeling, especially for energy efficiency and electrification; helping teams adopt AI tools and coding agents with clear eyes about the risks; designing data models and platforms that hold up; and making teams more efficient through better documentation, workflows, and habits.\nWhen I’m not working, I’m usually on a bike, running, or out on the trails and rivers around Fruita. I also run Fruita Tech Wizard, a small side project helping neighbors with their everyday tech."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Senior data and AI support for consultants and organizations.",
@@ -68,5 +54,26 @@
     "title": "Senior data and AI support for consultants and organizations.",
     "section": "Have a project, or a team that could use a hand?",
     "text": "Have a project, or a team that could use a hand?\nThe quickest way to start is a short call. Tell me what you’re working on, and we’ll see if I’m a good fit.\n\nBook a call Email me"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Thomas Wells",
+    "section": "",
+    "text": "I’m an independent data and AI consultant based in Fruita, Colorado. I founded Dynamodal in 2022, and I work mostly as a subcontractor with consulting teams that need an experienced, hands-on data person, and I take on direct client work too.\nI studied physics and electrical engineering at the Colorado School of Mines, then spent several years in Alaska’s oil fields before moving into data science consulting. Before Dynamodal, I was on the data analytics and modeling team at a national consulting firm, delivering scenario modeling and analysis for utility and government clients on everything from grid modernization to energy efficiency evaluation.\nI’ve worked with data for about two decades and with R for nearly as long. Along the way I’ve done a lot of IT work too, and that’s where I’m most useful: between the people who want to do ambitious analysis and the systems, policies, and tools that have to support it.\nThese days my work centers on four things: analytics and scenario modeling, especially for energy efficiency and electrification; helping teams adopt AI tools and coding agents with clear eyes about the risks; designing data models and platforms that hold up; and making teams more efficient through better documentation, workflows, and habits.\nWhen I’m not working, I’m usually on a bike, running, or out on the trails and rivers around Fruita. I also run Fruita Tech Wizard, a small side project helping neighbors with their everyday tech."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Let’s talk",
+    "section": "",
+    "text": "If you have a project coming up, a team that’s stretched thin, or questions about bringing AI tools into your work, I’d be glad to hear about it.\n\n\n Book a call\nPick a time that works for you. A short intro call is the fastest way to see if I’m a fit.\nChoose a time →\n\n\n Email\nSend a few lines about your team and what you’re working on.\ninfo@dynamodal.com\n\n\n LinkedIn\nConnect or send a message.\nlinkedin.com/in/thomascwells"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Things I’ve built, mostly for myself and the people I work with. They’re open source, and you’re welcome to use them, fork them, or send feedback.\n\n\n Yak\nYour Activity Keeper: a time tracker with Markdown notes and tasks that runs entirely in your browser. I built it for myself and for fellow consultants who bill by the hour and keep notes on everything.\n\nNo install, no account, and no server holding your data\nOptional peer-to-peer sync between your own devices; the relay only introduces them and never sees your data\nNotes and tasks are plain Markdown, with an Obsidian plugin that syncs both ways\nToggl import, and CSV and JSON export\nBuilt to pass an IT review: no remote code, a strict security policy, and few dependencies\n\nYak is in alpha. I built it largely with AI coding agents, as a hands-on test of the workflows I help teams adopt.\n\nOpen Yak Source on GitHub\n\n\n\nMore of my work is on GitHub."
   }
 ]
