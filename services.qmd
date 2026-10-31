@@ -67,6 +67,6 @@ The arrangement is the same whether I'm subcontracting for a consulting firm or 
 If your project needs a different arrangement, let's talk about it.
 
 ::: {.dm-actions}
-[Book a call](https://www.dynamodal.com/schedule/)
+[Book a call](/schedule/)
 [Contact](contact.qmd)
 :::

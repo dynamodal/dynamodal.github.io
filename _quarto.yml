@@ -14,9 +14,11 @@ website:
   title: "Dynamodal"
   description: "Thomas Wells is an independent data and AI consultant who helps consulting teams and the organizations they serve with analytics, data strategy, and putting AI tools to work."
   favicon: "files/favicon.png"
-  site-url: "https://www.dynamodal.com"
+  site-url: "https://dynamodal.com"
   repo-url: "https://github.com/dynamodal/dynamodal.github.io"
-  search: false
+  search:
+    location: navbar
+    type: overlay
   open-graph:
     image: files/social-card.png
     image-width: 1200
@@ -29,6 +31,8 @@ website:
     logo: "files/logo-mark.svg"
     logo-alt: "Dynamodal logo"
     right:
+      - href: index.qmd
+        text: "Home"
       - href: services.qmd
         text: "Services"
       - href: projects.qmd
@@ -37,7 +41,7 @@ website:
         text: "About"
       - href: contact.qmd
         text: "Contact"
-      - href: https://www.dynamodal.com/schedule/
+      - href: https://dynamodal.com/schedule/
         text: "Book a call"
 
   page-footer:
@@ -51,8 +55,16 @@ website:
 format:
   html:
     theme:
-      - default
-      - html/styles.scss
+      light:
+        - default
+        - html/styles.scss
+      dark:
+        - default
+        - html/styles.scss
+        - html/dark.scss
+    respect-user-color-scheme: true
+    include-in-header: html/structured-data.html
+    include-after-body: html/mobile-menu.html
     toc: false
     anchor-sections: false
     smooth-scroll: true

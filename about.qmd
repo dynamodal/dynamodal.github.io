@@ -11,7 +11,7 @@ about:
   links:
     - icon: calendar-check
       text: Book a call
-      href: https://www.dynamodal.com/schedule/
+      href: https://dynamodal.com/schedule/
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/thomascwells

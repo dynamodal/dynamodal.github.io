@@ -16,7 +16,7 @@ Consulting firms and organizations bring me in to deliver analytics and modeling
 I work as a subcontractor to consulting firms or directly with clients, on scoped tasks or as an embedded member of your team.]{.dm-lead}
 
 ::: {.dm-actions}
-[Book a call](https://www.dynamodal.com/schedule/)
+[Book a call](/schedule/)
 [How I help](services.qmd)
 :::
 
@@ -128,7 +128,7 @@ The quickest way to start is a short call.
 Tell me what you're working on, and we'll see if I'm a good fit.
 
 ::: {.dm-actions}
-[Book a call](https://www.dynamodal.com/schedule/)
+[Book a call](/schedule/)
 [Email me](mailto:info@dynamodal.com)
 :::
 
