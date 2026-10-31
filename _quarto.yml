@@ -16,7 +16,9 @@ website:
   favicon: "files/favicon.png"
   site-url: "https://dynamodal.com"
   repo-url: "https://github.com/dynamodal/dynamodal.github.io"
-  search: false
+  search:
+    location: navbar
+    type: overlay
   open-graph:
     image: files/social-card.png
     image-width: 1200
@@ -62,7 +64,7 @@ format:
         - html/dark.scss
     respect-user-color-scheme: true
     include-in-header: html/structured-data.html
-    include-after-body: html/theme-menu.html
+    include-after-body: html/mobile-menu.html
     toc: false
     anchor-sections: false
     smooth-scroll: true
