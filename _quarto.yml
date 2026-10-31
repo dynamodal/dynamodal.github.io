@@ -29,6 +29,8 @@ website:
     logo: "files/logo-mark.svg"
     logo-alt: "Dynamodal logo"
     right:
+      - href: index.qmd
+        text: "Home"
       - href: services.qmd
         text: "Services"
       - href: projects.qmd
@@ -60,6 +62,7 @@ format:
         - html/dark.scss
     respect-user-color-scheme: true
     include-in-header: html/structured-data.html
+    include-after-body: html/theme-menu.html
     toc: false
     anchor-sections: false
     smooth-scroll: true
