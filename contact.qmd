@@ -13,7 +13,7 @@ If you have a project coming up, a team that's stretched thin, or questions abou
 Pick a time that works for you.
 A short intro call is the fastest way to see if I'm a fit.
 
-[Choose a time →](https://www.dynamodal.com/schedule/)
+[Choose a time →](/schedule/)
 :::
 
 ::: {.dm-card}

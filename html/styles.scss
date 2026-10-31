@@ -2,18 +2,25 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
 
-// Brand palette
-$ink:        #12233a;
-$ink-soft:   #3b4a5e;
-$accent:     #0e7c66;
-$accent-dk:  #0a5f4e;
-$mist:       #f3f6f8;
-$line:       #dfe5ea;
+// Brand palette (light). html/dark.scss overrides these for dark mode,
+// so every value here is !default.
+$ink:        #12233a !default;   // headings
+$ink-soft:   #3b4a5e !default;   // body text
+$accent:     #0e7c66 !default;
+$accent-dk:  #0a5f4e !default;   // hover
+$on-accent:  #ffffff !default;   // text on accent buttons
+$mist:       #f3f6f8 !default;   // tinted bands, chips, footer
+$line:       #dfe5ea !default;
+$page:       #ffffff !default;
+$surface:    #ffffff !default;   // cards
+$cta-bg:     #12233a !default;
+$cta-text:   #d5dde6 !default;
+$hero-glow:  0.08 !default;
 
 $white: #ffffff;
 $primary: $accent;
 $body-color: $ink-soft;
-$body-bg: $white;
+$body-bg: $page;
 $headings-color: $ink;
 $link-color: $accent;
 $link-hover-color: $accent-dk;
@@ -24,7 +31,7 @@ $line-height-base: 1.65;
 $headings-font-weight: 700;
 $headings-line-height: 1.2;
 
-$navbar-bg: $white;
+$navbar-bg: $page;
 $navbar-fg: $ink;
 $navbar-hl: $accent;
 $footer-bg: $mist;
@@ -48,7 +55,7 @@ h1, h2, h3 { letter-spacing: -0.015em; }
   // "Book a call" as a button
   a.nav-link[href*="/schedule"] {
     background: $accent;
-    color: $white !important;
+    color: $on-accent !important;
     border-radius: 999px;
     padding: 0.4rem 1rem !important;
     margin-left: 0.5rem;
@@ -95,8 +102,8 @@ h1, h2, h3 { letter-spacing: -0.015em; }
   padding: 4.5rem 0 3.5rem;
   border-bottom: 1px solid $line;
   background:
-    radial-gradient(circle at 92% 10%, rgba($accent, 0.08), transparent 45%),
-    $white;
+    radial-gradient(circle at 92% 10%, rgba($accent, $hero-glow), transparent 45%),
+    $page;
 
   h1 {
     font-size: clamp(2rem, 5.2vw, 3.3rem);
@@ -128,7 +135,7 @@ h1, h2, h3 { letter-spacing: -0.015em; }
     text-align: center;
     @media (max-width: 575.98px) { flex: 1 1 100%; }
   }
-  a:first-child { background: $accent; color: $white; }
+  a:first-child { background: $accent; color: $on-accent; }
   a:first-child:hover { background: $accent-dk; border-color: $accent-dk; }
   a:not(:first-child) { color: $accent; background: transparent; }
   a:not(:first-child):hover { background: rgba($accent, 0.08); }
@@ -143,7 +150,7 @@ h1, h2, h3 { letter-spacing: -0.015em; }
 }
 
 .dm-card {
-  background: $white;
+  background: $surface;
   border: 1px solid $line;
   border-radius: $border-radius;
   padding: 1.5rem;
@@ -209,13 +216,13 @@ h1, h2, h3 { letter-spacing: -0.015em; }
 
 // ---- Call to action band ----
 .dm-cta {
-  background: $ink;
-  color: #d5dde6;
+  background: $cta-bg;
+  color: $cta-text;
   text-align: center;
   h2 { color: $white; border: 0; margin-top: 0; }
   p { max-width: 36rem; margin-left: auto; margin-right: auto; }
   .dm-actions, .dm-actions > p { justify-content: center; }
-  .dm-actions a:first-child { background: $white; color: $ink; border-color: $white; }
+  .dm-actions a:first-child { background: $white; color: $cta-bg; border-color: $white; }
   .dm-actions a:not(:first-child) { color: $white; border-color: rgba($white, 0.6); }
   .dm-actions a:not(:first-child):hover { background: rgba($white, 0.1); }
 }
@@ -266,3 +273,12 @@ h2 { border-bottom: 0; }
     .nav-footer-right { text-align: right; flex: 1 1 50%; }
   }
 }
+
+// ---- Dark mode ----
+// Quarto adds .quarto-dark to <body> when the dark theme is active
+.quarto-dark {
+  .navbar-logo { content: url("files/logo-mark-white.svg"); }
+}
+
+// Light/dark toggle in the navbar
+.quarto-color-scheme-toggle { opacity: 0.8; margin-left: 0.4rem; &:hover { opacity: 1; } }

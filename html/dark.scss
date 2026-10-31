@@ -1,0 +1,16 @@
+/*-- scss:defaults --*/
+
+// Dark palette. Loaded after styles.scss in the dark theme only;
+// styles.scss uses !default, so these values win.
+$ink:        #eef3f8;
+$ink-soft:   #b8c4d2;
+$accent:     #3cc4a4;
+$accent-dk:  #6ad8bd;
+$on-accent:  #06231d;
+$mist:       #142131;
+$line:       #26364a;
+$page:       #0d1824;
+$surface:    #142131;
+$cta-bg:     #1b2d44;
+$cta-text:   #d5dde6;
+$hero-glow:  0.035;
